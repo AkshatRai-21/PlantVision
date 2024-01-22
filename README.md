@@ -25,4 +25,4 @@ Follow these steps to set up and run the PlantVision app locally.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/PlantVision.git
+   git clone https://github.com/AkshatRai-21/PlantVision.git
